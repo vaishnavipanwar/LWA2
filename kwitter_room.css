@@ -1,0 +1,16 @@
+body
+{
+background-color: rgb(73, 236, 146);
+}
+
+#logout
+{
+	font-size: 20px;
+     float: right;
+}
+.name{
+  width:30%;
+     font-size: 30px;
+     }
+     
+     
